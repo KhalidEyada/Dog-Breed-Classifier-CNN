@@ -15,6 +15,8 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 
 ## Project Instructions
 
+### unfortunately I had some issues uploading the project so you can download it from here
+### https://drive.google.com/drive/folders/1F96EiDyV9-wfaGLmeKwQDXqd9DhKKlaK?usp=sharing
 
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`. 
 
